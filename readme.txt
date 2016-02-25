@@ -4,6 +4,6 @@ Git has a mutable index called stage.
 connect the remote server.
 bulid a new connect
 
-Creating a new branch is quick.
-now i will use gitbub.
+Creating a new branch is quick And simple.
+Hahahaha...
 
